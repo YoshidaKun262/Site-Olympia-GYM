@@ -10,12 +10,11 @@
 }
 
 .cabecalho-imagem{
-    width: 20%;
+    width: 13%;
 }
 
 .academia{
     background-image: linear-gradient(#FFFF00, #FF0000);
-    display: flex;
     justify-content: center;
     align-items: center;
 }
